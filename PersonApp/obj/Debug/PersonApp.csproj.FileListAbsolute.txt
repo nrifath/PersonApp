@@ -1,0 +1,9 @@
+E:\Nerd Castle\OOP 51st Batch\23rd December 2014\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+E:\Nerd Castle\OOP 51st Batch\23rd December 2014\PersonApp\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache
+E:\Nerd Castle\OOP 51st Batch\23rd December 2014\PersonApp\PersonApp\obj\Debug\PersonApp.Form1.resources
+E:\Nerd Castle\OOP 51st Batch\23rd December 2014\PersonApp\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+E:\Nerd Castle\OOP 51st Batch\23rd December 2014\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.Cache
+E:\Nerd Castle\OOP 51st Batch\23rd December 2014\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+E:\Nerd Castle\OOP 51st Batch\23rd December 2014\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+E:\Nerd Castle\OOP 51st Batch\23rd December 2014\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+E:\Nerd Castle\OOP 51st Batch\23rd December 2014\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
